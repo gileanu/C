@@ -2,7 +2,7 @@
 
 #define LOWER 0    // lower limit of table
 #define UPPER 300  // upper limit
-#define STEP  20   // incements
+#define STEP  20   // increments
 
 int main(void)
 {
