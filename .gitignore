@@ -6,13 +6,12 @@
 !.vscode/*.code-snippets
 !.vscode/c_cpp_properties.json
 
-!C.notes/.obsidian
-!C.notes/.obsidian/app.json
-!C.notes/.obsidian/appearance.json
-!C.notes/.obsidian/core-plugins-migration.json
-!C.notes/.obsidian/core-plugins.json
-!C.notes/.obsidian/hotkeys.json
-!C.notes/.obsidian/workspace.json
+C.notes/.obsidian/app.json
+C.notes/.obsidian/appearance.json
+C.notes/.obsidian/core-plugins-migration.json
+C.notes/.obsidian/core-plugins.json
+C.notes/.obsidian/hotkeys.json
+C.notes/.obsidian/workspace.json
 
 # Local History for Visual Studio Code
 .history/
