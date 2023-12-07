@@ -34,3 +34,4 @@ printf("%3.0f\\t%6.2f\\n", fahr, celsius);
 the %3.0f will print the value of fahr formated for: 3 characters long, 0 characters decimal points
 the %6.2f will print the value of celcius formated for: 6 characters long, 2 characters decimal points
 
+[[Info]]
