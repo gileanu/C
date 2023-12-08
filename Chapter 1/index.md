@@ -1,20 +1,5 @@
 # Chapter 1 exercises:
 
-[EX1-01](ex1-01.c) done 7 Dec 2023<br>
-[EX1-02](ex1-02.c) done 7 Dec 2023<br>
-[EX1-03](ex1-03.c) done 7 Dec 2023<br>
-[EX1-04](ex1-04.c) done 7 Dec 2023<br>
-[EX1-05](ex1-05.c) done 7 Dec 2023<br>
-[EX1-06](ex1-06.c) done 7 Dec 2023<br>
-[EX1-07](ex1-07.c) done 8 Dec 2023<br>
-[EX1-08](ex1-08.c) done 8 Dec 2023<br>
-[EX1-09](ex1-09.c) done 8 Dec 2023<br>
-[EX1-10](ex1-10.c) done 8 Dec 2023<br>
-[EX1-11](ex1-11.c) done 8 Dec 2023<br>
-[EX1-12](ex1-12.c) done 8 Dec 2023<br>
-[EX1-13](ex1-13.c) done 8 Dec 2023<br>
-
-
 | Exercise Number | Exercise Description | Date of completion |
 | --------------- | -------------------- | ------------------ |
 | [EX1-1](ex1-01.c) | Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get | 7 Dec 2023 |
