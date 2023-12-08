@@ -11,7 +11,7 @@
 | [EX1-7](ex1-07.c) | Write a program to print the value of EOF | 7 Dec 2023 |
 | [EX1-8](ex1-08.c) | Write a program to count blanks, tabs and newlines | 7 Dec 2023 |
 | [EX1-9](ex1-09.c) | Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank | 7 Dec 2023 |
-| [EX1-10](ex1-10.c) | Write a program to copy its input to its output, replacing each tab by \t, each backspace by \b and each backslash by (\). This makes tabs and backspaces visible in an unambiguous way | 7 Dec 2023 |
+| [EX1-10](ex1-10.c) | Write a program to copy its input to its output, replacing each tab by \t, each backspace by \b and each backslash by (\\). This makes tabs and backspaces visible in an unambiguous way | 7 Dec 2023 |
 | [EX1-11](ex1-11.c) | How would you test the word program? What kinds of input are most likely to uncover bugs if there are any? | 7 Dec 2023 |
 | [EX1-12](ex1-12.c) | Write a program that prints its input one word per line | 7 Dec 2023 |
 | [EX1-13](ex1-13.c) | Write a program to print a histogram of the lenghts of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging | 7 Dec 2023 |
