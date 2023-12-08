@@ -7,8 +7,8 @@ int main(void)
     int lower, upper, step;
 
     lower = -300;   // lower bound
-    upper = 300; // upper bound
-    step = 20;   // print temp every [step]'s
+    upper = 300;    // upper bound
+    step = 20;      // print temp every [step]'s
 
     celsius = lower;
     printf("Celsius temp \tFahrenheit temp\n");
@@ -18,4 +18,5 @@ int main(void)
         printf("%12.0f\t%15.2f\n", celsius, fahr);
         celsius = celsius + step;
     }
+    return 0;
 }
