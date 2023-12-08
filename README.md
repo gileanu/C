@@ -15,3 +15,4 @@ This repo will eventually be full of all the exercices found inside the book: "T
 [EX1-7](ex1-7.c) done 8 Dec 2023<br>
 [EX1-8](ex1-8.c) done 8 Dec 2023<br>
 [EX1-9](ex1-9.c) done 8 Dec 2023<br>
+[EX1-10](ex1-10.c) done 8 Dec 2023<br>
