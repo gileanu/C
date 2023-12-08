@@ -1,3 +1,4 @@
+# Ignore all vscode files
 .vscode
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -6,6 +7,7 @@
 !.vscode/*.code-snippets
 !.vscode/c_cpp_properties.json
 
+# Ignore all .json notes files
 C.notes/.obsidian/app.json
 C.notes/.obsidian/appearance.json
 C.notes/.obsidian/core-plugins-migration.json
@@ -18,3 +20,48 @@ C.notes/.obsidian/workspace.json
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Ignore all files without an extension
+*
+!*/
+!*.*
+
+# Don't ignore Makefile
+!Makefile
+
+# Unknoun files
+*.ipch
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.bin
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
