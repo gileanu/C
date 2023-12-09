@@ -1,6 +1,6 @@
 # Chapter 1 exercises:
 
-| Exercise Number | Exercise Description |
+| Number | Description |
 | --------------- | -------------------- |
 | [EX 1-1](ex1-01.c) | Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get |
 | [EX 1-2](ex1-02.c) | Experiment to find out what happens when printf's argument string contains \c, where c is some character not listed above |
