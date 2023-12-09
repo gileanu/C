@@ -65,3 +65,6 @@ C.notes/.obsidian/workspace.json
 
 # Debug files
 *.dSYM/
+
+#DS_Store
+.DS_Store
