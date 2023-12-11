@@ -15,3 +15,4 @@
 | [EX1 -11](ex1-11.c) | How would you test the word program? What kinds of input are most likely to uncover bugs if there are any? |
 | [EX 1-12](ex1-12.c) | Write a program that prints its input one word per line |
 | [EX 1-13](ex1-13.c) | Write a program to print a histogram of the lenghts of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging |
+| [EX 1-14](ex1-14.c) | TODO: add desciprion |
